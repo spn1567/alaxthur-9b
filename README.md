@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>AX bikes</h1>
+    <h1>GX bikes</h1>
     <h2>as melhores peças de bike Aqui</h2>
     <h3>Temos</h3>
     <h1>ㅤ</h1>
